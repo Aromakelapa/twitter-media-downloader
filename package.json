@@ -1,5 +1,5 @@
 {
-  "name": "@aromakelapa/twitter-media-downloader",
+  "name": "@Aromakelapa/twitter-media-downloader",
   "version": "1.0.0",
   "description": "Scrap data from Twitter media downloader site, and get info from yout Twitter link.",
   "main": "index.js",
