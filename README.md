@@ -12,7 +12,7 @@ npm install twitter-media-downloader
 
 ## Usage
 ```
-const TwitterDl = require('twdl');
+const TwitterDl = require('twitter-media-downloader');
 
 const twdl = new TwitterDl('https://twitter.com/Turkoinimchat/status/1634017310166990848/video/1');
 
